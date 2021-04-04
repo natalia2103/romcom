@@ -1,9 +1,9 @@
 // Create variables targetting the relevant DOM elements here 👇
 // These target the book cover
-var coverImage = document.querySelector(".cover-image");
-var coverTitle = document.querySelector(".cover-title");
-var firstTagline = document.querySelector(".tagline-1");
-var secondTagline = document.querySelector(".tagline-2");
+var coverImage = document.querySelector('.cover-image');
+var coverTitle = document.querySelector('.cover-title');
+var firstTagline = document.querySelector('.tagline-1');
+var secondTagline = document.querySelector('.tagline-2');
 
 
 // The buttons!
@@ -28,10 +28,10 @@ var makeNewCoverPage = document.querySelector('.form-view');
 var savedCollection = document.querySelector('.saved-covers-section');
 
 // Main page
-var coverImg = document.querySelector(".cover-image");
-var title = document.querySelector(".cover-title");
-var descriptor1 = document.querySelector(".tagline-1");
-var descriptor2 = document.querySelector(".tagline-2");
+var coverImg = document.querySelector('.cover-image');
+var title = document.querySelector('.cover-title');
+var descriptor1 = document.querySelector('.tagline-1');
+var descriptor2 = document.querySelector('.tagline-2');
 
 
 // We've provided a few variables below
@@ -40,7 +40,7 @@ var savedCovers = [
 ];
 
 
-var currentCover = new Cover()
+var currentCover = new Cover();
 
 
 // Add your event listeners here 👇

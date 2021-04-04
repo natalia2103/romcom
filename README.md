@@ -9,6 +9,7 @@ About the Website
 
 This website allows users to get creative with romance novel covers! Users can use the navigation buttons at the top to generate a new random cover, save their favorites, view those saved covers, and also create and save their own romance novel covers.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/77814989/113514685-e77ca900-9524-11eb-9a1a-691eb5cf5dd7.gif)
 
 
 

@@ -1,9 +1,12 @@
 # Project RomCom
-
 > A website for the creative romantic.
 
-About
---------
+
+### Contributor: @natalia2103
+### [click here](https://github.com/natalia2103/romcom.git) to view the project page.
+
+
+
 
 This website allows users to get creative with romance novel covers! Users can use the navigation buttons at the top to generate a new random cover, save their favorites, view those saved covers, and also create and save their own romance novel covers.
 
@@ -13,7 +16,6 @@ View Browser
 -------------
 
 Please follow [this link](https://github.com/natalia2103/romcom.git) and follow the instructions below:
-  -
   
 
 
